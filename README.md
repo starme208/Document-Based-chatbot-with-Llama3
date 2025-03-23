@@ -13,7 +13,7 @@ To install and run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MGJillaniMughal/End-to-End-Document-Based-chatbot-with-Llama3.git
+   git clone https://github.com/starme208/Document-Based-chatbot-with-Llama3.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -37,11 +37,7 @@ Contributions are welcome! Please feel free to submit pull requests, or open iss
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-- **GitHub**: [MGJillaniMughal](https://github.com/MGJillaniMughal)
-- **LinkedIn**: [Jillani SoftTech](https://www.linkedin.com/in/jillanisofttech/)
-
 ## Acknowledgments
 - Thanks to all contributors who have invested their time in improving this project.
 - Special thanks to LangChain and Groq for providing the necessary tools and frameworks.
-- This LLM Web Application Created by Jillani SoftTech 😎
+
