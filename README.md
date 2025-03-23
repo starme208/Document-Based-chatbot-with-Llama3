@@ -17,7 +17,7 @@ To install and run this project locally, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd End-to-End-Document-Based-chatbot-with-Llama3
+   cd Document-Based-chatbot-with-Llama3
    ```
 3. Install required packages:
    ```bash
